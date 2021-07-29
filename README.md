@@ -2,7 +2,7 @@ README.md
 
 [Hungry Geese](https://www.kaggle.com/c/hungry-geese/overview) was a competitive simulation challenge run by Kaggle in 2021. It is a 4 player survival game where teams create agents (‘geese’) to compete against other teams' agents. It resembled the evergreen snake game, where your snake or goose had to stay alive on a small board amongst others.
 
-This is the solution from our team "THE GOOSE IS LOOSE". In a field of 879 teams, we were placed 7th on the day of submission close. A two week play off period will reveal our true position somewhere in the top 20 but we hope for a top 11 gold medal. You can read our lengthy [solution description](https://kaggle.com). 
+This is the solution from our team "THE GOOSE IS LOOSE". In a field of 879 teams, we were placed 7th on the day of submission close. A two week play off period will reveal our true position somewhere in the top 20 but we hope for a top 11 gold medal. You can read our lengthy [solution description](https://www.kaggle.com/c/hungry-geese/discussion/255931). 
 
 Our solution is a single file agent as submitted to kaggle and includes
 
